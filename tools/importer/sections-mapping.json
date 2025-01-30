@@ -78,7 +78,7 @@
               ],
               "color": "rgb(0, 255, 0)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "aitopcolumns"
             },
             {
               "id": "box-id-494745251",
@@ -93,7 +93,7 @@
               },
               "color": "rgba(255, 255, 0, 0.4)",
               "mapping": "hero",
-              "customBlockName": ""
+              "customBlockName": "aihero"
             },
             {
               "id": "box-id--890884701",
@@ -108,7 +108,7 @@
               },
               "color": "rgba(255, 255, 0, 0.3)",
               "mapping": "defaultContent",
-              "customBlockName": ""
+              "customBlockName": "aiview"
             },
             {
               "id": "box-id--87468381",
@@ -123,7 +123,7 @@
               },
               "color": "rgba(255, 255, 0, 0.2)",
               "mapping": "defaultContent",
-              "customBlockName": ""
+              "customBlockName": "aiupcomming"
             },
             {
               "id": "box-id--87468350",
@@ -148,7 +148,7 @@
               ],
               "color": "rgba(255, 255, 0, 0.2)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "aiback"
             },
             {
               "id": "box-id-592589989",
@@ -163,22 +163,7 @@
               },
               "color": "rgba(255, 255, 0, 0.2)",
               "mapping": "defaultContent",
-              "customBlockName": ""
-            },
-            {
-              "id": "box-id-592590020",
-              "x": 849,
-              "y": 1693,
-              "width": 1200,
-              "height": 265,
-              "xpath": "/html[1]/body[1]/main[1]/div[2]/div[4]/div[2]",
-              "layout": {
-                "numCols": 0,
-                "numRows": 0
-              },
-              "color": "rgba(255, 255, 0, 0.2)",
-              "mapping": "defaultContent",
-              "customBlockName": ""
+              "customBlockName": "aiimage"
             },
             {
               "id": "box-id--702072769",
@@ -193,7 +178,7 @@
               },
               "color": "rgba(255, 255, 0, 0.2)",
               "mapping": "defaultContent",
-              "customBlockName": ""
+              "customBlockName": "ailatest"
             },
             {
               "id": "box-id--702072738",
@@ -222,7 +207,7 @@
               ],
               "color": "rgba(255, 255, 0, 0.2)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "ainews"
             },
             {
               "id": "box-id--86644652",
@@ -255,7 +240,7 @@
               ],
               "color": "rgba(255, 255, 0, 0.2)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "aimiddlecolumns"
             },
             {
               "id": "box-id--1723141123",
@@ -303,7 +288,7 @@
               ],
               "color": "rgba(255, 255, 0, 0.2)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "aisocial"
             }
           ],
           "settings": {}
@@ -359,7 +344,7 @@
               ],
               "color": "rgba(255, 127, 0, 0.4)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "ai-footer-columns1"
             },
             {
               "id": "box-id-185265735",
@@ -399,7 +384,7 @@
               ],
               "color": "rgb(75, 0, 130)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "ai-footer-columns2"
             }
           ],
           "settings": {}
