@@ -166,6 +166,21 @@
               "customBlockName": "aiimage"
             },
             {
+              "id": "box-id-592590020",
+              "x": 190,
+              "y": 1656,
+              "width": 1200,
+              "height": 265,
+              "xpath": "/html[1]/body[1]/main[1]/div[2]/div[4]/div[2]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(255, 255, 0, 0.2)",
+              "mapping": "columns",
+              "customBlockName": ""
+            },
+            {
               "id": "box-id--702072769",
               "x": 859,
               "y": 1973,
